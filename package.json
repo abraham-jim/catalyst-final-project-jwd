@@ -1,0 +1,25 @@
+{
+  "name": "catalyst-final-project-jwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraham-jim/catalyst-final-project-jwd.git"
+  },
+  "author": "group- 1 -EST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraham-jim/catalyst-final-project-jwd/issues"
+  },
+  "homepage": "https://github.com/abraham-jim/catalyst-final-project-jwd#readme",
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
